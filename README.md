@@ -1,5 +1,5 @@
 -![programmer life](https://user-images.githubusercontent.com/104743353/196206298-641912b0-7e85-42a6-91cd-e4d7d2189630.gif)
--  👋 Hi, I’m @dogukanonay3
+-  👋 Hi, I’m Dogukan
 - 👀 I’m interested in 
 • C#
 • Html,Css,Boostrap
