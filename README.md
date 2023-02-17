@@ -5,13 +5,12 @@
 - 👀 I’m interested in 
 •  C#
 • Html,Css,Boostrap
-• Node js. , Javascript
+• Javascript
 • MySQL
-• OOP,AOP
+• OOP
 • .Net Framework MVC
-• .Restful API
 • Asp.Net.Core MVC
-•EntityFrameWork,ADO.NET
+•EntityFrameWork
 - ## Reach Out To Me
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/dogukanonay3)
 -  [![Instagram Badge](https://img.shields.io/badge/-Instagram-C57654?style=flat-quare&labelColor=C98778&logo=instagram&logoColor=grey&link=link)](https://www.instagram.com/dogukanonayWork)
